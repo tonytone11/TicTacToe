@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import PropTypes from 'prop-types';
+import './App.css';
 
 function Square({ value, onSquareClick }) {
   return (
